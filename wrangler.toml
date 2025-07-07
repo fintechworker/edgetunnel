@@ -1,4 +1,5 @@
-name = "v20250706"
+# wrangler.toml
+name = 'qifei'
 main = "_worker.js"
 compatibility_date = "2025-07-06"
 keep_vars = true
